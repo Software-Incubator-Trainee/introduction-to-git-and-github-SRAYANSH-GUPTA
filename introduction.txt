@@ -3,3 +3,14 @@ I am Srayansh Gupta from Bareilly.
 I currently doing my majors in computer science from Ajay Kumar Garg Engineering College.
 My domain is Web Development.
 I have done Html and CSS.
+
+
+My hobbies are:
+1. Coding.
+2. Basketball and Badminton.
+3. Playing with my IOT devices.
+4. Listening Music.
+
+My skills are:
+1. HTML and CSS.
+2. Can develop solutions by IOT boards like Node mcu and Arduino Uno.
